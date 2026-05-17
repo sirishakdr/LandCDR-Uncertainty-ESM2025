@@ -1,0 +1,25 @@
+# Ignore everything by default
+*
+
+# Allow directories for recursion
+!*/
+
+# Keep control files
+!.gitignore
+
+# Keep only requested data files
+!AR6_Scenarios_Database_metadata_indicators_v1.1.xlsx
+!r10_regions_map_from_mask_smithetal.ipynb
+!r10masks_fractional.nc
+!scaling_factors_global_bioenergy_carbon_paper.xlsx
+!scaling_factors_regions_biomass_ssp126D_paper.csv
+!scaling_factors_regions_biomass_ssp126D_paper.xlsx
+
+# Keep only requested scripts
+!paper_fig3.py
+!Script_paper_fig1_table_s1_s3.py
+!paper_FigS2.py
+!script_paper_fig5_tableS5.py
+!scaling_factors_global_bioenergy_carbon_paper_script.py
+!script_paper_Fig6_Table7.py
+!scaling_factors_regions_biomass_paper_script.py
