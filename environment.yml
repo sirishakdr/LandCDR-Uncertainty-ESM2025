@@ -1,0 +1,19 @@
+name: esm2025
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python
+  - xarray
+  - numpy
+  - cartopy
+  - scipy
+  - netcdf4
+  - matplotlib
+  - jupyter
+  - openpyxl
+  - pyam
+  - notebook
+  - cdo
+  - networkx
+  - git-lfs
