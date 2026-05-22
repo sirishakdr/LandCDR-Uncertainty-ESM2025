@@ -45,4 +45,5 @@ python script_paper_Fig6_Table7.py
 python script_paper_Fig7_TableS8.py
 python paper_FigS2.py
 python script_paper_FigS1_regional_afforestation_Stats_low_emission_scenario.py
+R10 regions map (Figure S3): `r10_regions_map_from_mask_smithetal.ipynb`
 ```
